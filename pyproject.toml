@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "poetry-demo"
+name = "poetry-demo-package"
 version = "0.1"
 description = "This is a demo package"
 authors = ["Tim <tim@example.com>"] 
