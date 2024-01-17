@@ -16,7 +16,7 @@ poetry run python -c "import demo"
 * Build:
 ```shell
 poetry build
-``````
+```
 * Upload to PyPI:
 ```shell
 poetry publish
